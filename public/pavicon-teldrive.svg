@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <!-- Cloud Background (Memenuhi area) -->
+  <path d="M12 46 C4 46 1 39 1 31 C1 22 8 16 15 16 C17 9 24 4 33 4 C42 4 49 9 51 16 C58 16 63 22 63 31 C63 39 58 46 50 46 Z" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <!-- Super Mushroom (Diperbesar & Lebih Tebal) -->
+  <g transform="translate(13, 13) scale(0.85)">
+    <path d="M16 28 C14 28 12 26 12 22 L12 16 C12 14 14 12 16 12 L32 12 C34 12 36 14 36 16 L36 22 C36 26 34 28 32 28 Z" fill="#ffebcd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M8 14 C8 6 16 2 24 2 C32 2 40 6 40 14 C40 18 36 20 32 20 L16 20 C12 20 8 18 8 14 Z" fill="#e52521" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="17" cy="10" r="4.5" fill="#ffffff"/>
+    <circle cx="31" cy="10" r="4.5" fill="#ffffff"/>
+  </g>
+</svg>
